@@ -1,0 +1,1 @@
+O curso de Git apresentado foi ate o momento muito claro e objetivo. Sendo possível executar os comandos de forma fácil.
